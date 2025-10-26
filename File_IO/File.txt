@@ -1,0 +1,3 @@
+Test dosya acma islemi.
+Test dosya acma islemi 2.
+Test dosya acma islemi 3.
